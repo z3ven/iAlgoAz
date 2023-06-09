@@ -6,7 +6,7 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 * Если появляется вот такое окно:
 
-![confdev](confdev.png ) 
+![confdev](untrusted.jpg) 
 
 то нужно зайти в Настройки > Основные > VPN и управление устройством > Выбрать "Abbas Lutvaliyev Personal Team " и нажать Доверять 
 
