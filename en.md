@@ -1,7 +1,7 @@
 # Install from phone
 * To get started, visit this page from an iOS device
 
-* Then follow [this link](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/z3ven/iAlgoAz/main/manifest.plist)
+* Then follow this link: itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/z3ven/iAlgoAz/main/manifest.plist
 
 * If the following window appears:
 
