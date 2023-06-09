@@ -1,6 +1,7 @@
 # Telefondan quraşdırın
 * Başlamaq üçün iOS cihazından bu səhifəyə daxil olun
-* Sonra bu [linki](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/z3ven/iAlgoAz/main/manifest.plist) izləyin 
+* Sonra bu linki: itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/z3ven/iAlgoAz/main/manifest.plist
+izləyin 
 
 * Aşağıdakı pəncərə görünsə:
 
